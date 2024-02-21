@@ -1,0 +1,573 @@
+[
+    {
+        "time": 0,
+        "action": "Recording Started"
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            726,
+            332
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            667,
+            121
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            578,
+            -103
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            544,
+            134
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            452,
+            342
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            714,
+            457
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            941,
+            495
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1189,
+            466
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1166,
+            261
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            925,
+            223
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            686,
+            344
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            646,
+            561
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            913,
+            668
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1126,
+            677
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1337,
+            642
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1596,
+            566
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1511,
+            365
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1304,
+            342
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1075,
+            441
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1023,
+            647
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1271,
+            658
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1571,
+            599
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1823,
+            518
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1820,
+            278
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1550,
+            164
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1301,
+            151
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1046,
+            199
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            825,
+            275
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            614,
+            452
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            917,
+            625
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1188,
+            616
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1438,
+            551
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1692,
+            476
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1940,
+            350
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1630,
+            149
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1370,
+            141
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1102,
+            193
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            874,
+            281
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            769,
+            513
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1055,
+            586
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1354,
+            587
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1677,
+            546
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1970,
+            477
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1836,
+            270
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1619,
+            180
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1338,
+            131
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1091,
+            134
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            852,
+            212
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            899,
+            434
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1154,
+            549
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1380,
+            568
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1630,
+            538
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1848,
+            479
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1571,
+            372
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1369,
+            436
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1084,
+            538
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1350,
+            644
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1061,
+            603
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            810,
+            683
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1018,
+            745
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            801,
+            678
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            493,
+            647
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            222,
+            636
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            466,
+            668
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            704,
+            679
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            936,
+            682
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1206,
+            684
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            930,
+            672
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            693,
+            661
+        ]
+    },
+    {
+        "time": 5.08,
+        "action": 0,
+        "key": "\""
+    },
+    {
+        "time": 0.13,
+        "action": 1,
+        "key": "\""
+    },
+    {
+        "time": 0.25,
+        "action": 0,
+        "key": "Key.esc"
+    }
+]
